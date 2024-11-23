@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center    align-items: center;
+    height: 100vh;
+    background-color: #f8f9fc;
+}
+
+.svg-container {
+    width: 800px;
+    height: 1000px;
+}
